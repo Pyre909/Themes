@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="508" viewBox="0 0 940 508" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="460" height="508" rx="12" fill="#F8F7F2" stroke="#9A9FA6" stroke-opacity="0.35"/>
+  <text x="24" y="40" font-size="20" font-weight="600" fill="#3B3E45">Fovea Light</text>
+  <rect x="24" y="64" width="22" height="22" rx="4" fill="#F8F7F2" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="80" font-size="14" fill="#3B3E45">Background</text>
+  <text x="436" y="80" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#F8F7F2</text>
+  <rect x="24" y="94" width="22" height="22" rx="4" fill="#3B3E45" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="110" font-size="14" fill="#3B3E45">Text</text>
+  <text x="436" y="110" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#3B3E45</text>
+  <rect x="24" y="124" width="22" height="22" rx="4" fill="#4C5057" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="140" font-size="14" fill="#3B3E45">Operators</text>
+  <text x="436" y="140" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#4C5057</text>
+  <rect x="24" y="154" width="22" height="22" rx="4" fill="#64707D" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="170" font-size="14" fill="#3B3E45">Comments</text>
+  <text x="436" y="170" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#64707D</text>
+  <rect x="24" y="184" width="22" height="22" rx="4" fill="#924389" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="200" font-size="14" fill="#3B3E45">Keywords</text>
+  <text x="436" y="200" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#924389</text>
+  <rect x="24" y="214" width="22" height="22" rx="4" fill="#37619B" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="230" font-size="14" fill="#3B3E45">Functions</text>
+  <text x="436" y="230" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#37619B</text>
+  <rect x="24" y="244" width="22" height="22" rx="4" fill="#3E5C2E" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="260" font-size="14" fill="#3B3E45">Strings</text>
+  <text x="436" y="260" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#3E5C2E</text>
+  <rect x="24" y="274" width="22" height="22" rx="4" fill="#995011" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="290" font-size="14" fill="#3B3E45">Numbers</text>
+  <text x="436" y="290" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#995011</text>
+  <rect x="24" y="304" width="22" height="22" rx="4" fill="#006F6F" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="320" font-size="14" fill="#3B3E45">Types</text>
+  <text x="436" y="320" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#006F6F</text>
+  <rect x="24" y="334" width="22" height="22" rx="4" fill="#A34558" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="350" font-size="14" fill="#3B3E45">Tags</text>
+  <text x="436" y="350" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#A34558</text>
+  <rect x="24" y="364" width="22" height="22" rx="4" fill="#9A9FA6" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="380" font-size="14" fill="#3B3E45">Line numbers</text>
+  <text x="436" y="380" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#9A9FA6</text>
+  <rect x="24" y="394" width="22" height="22" rx="4" fill="#CCE2FE" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="410" font-size="14" fill="#3B3E45">Selection</text>
+  <text x="436" y="410" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#CCE2FE</text>
+  <rect x="24" y="424" width="22" height="22" rx="4" fill="#ECF0F5" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="440" font-size="14" fill="#3B3E45">Current line</text>
+  <text x="436" y="440" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#ECF0F5</text>
+  <rect x="24" y="454" width="22" height="22" rx="4" fill="#004388" stroke="#9A9FA6" stroke-opacity="0.6"/>
+  <text x="60" y="470" font-size="14" fill="#3B3E45">Caret</text>
+  <text x="436" y="470" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#64707D">#004388</text>
+  <rect x="480" y="0" width="460" height="508" rx="12" fill="#1F232A" stroke="#696D72" stroke-opacity="0.35"/>
+  <text x="504" y="40" font-size="20" font-weight="600" fill="#C5C9D0">Fovea Dark</text>
+  <rect x="504" y="64" width="22" height="22" rx="4" fill="#1F232A" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="80" font-size="14" fill="#C5C9D0">Background</text>
+  <text x="916" y="80" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#1F232A</text>
+  <rect x="504" y="94" width="22" height="22" rx="4" fill="#C5C9D0" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="110" font-size="14" fill="#C5C9D0">Text</text>
+  <text x="916" y="110" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#C5C9D0</text>
+  <rect x="504" y="124" width="22" height="22" rx="4" fill="#B5B9BF" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="140" font-size="14" fill="#C5C9D0">Operators</text>
+  <text x="916" y="140" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#B5B9BF</text>
+  <rect x="504" y="154" width="22" height="22" rx="4" fill="#818B9A" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="170" font-size="14" fill="#C5C9D0">Comments</text>
+  <text x="916" y="170" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#818B9A</text>
+  <rect x="504" y="184" width="22" height="22" rx="4" fill="#D98CCE" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="200" font-size="14" fill="#C5C9D0">Keywords</text>
+  <text x="916" y="200" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#D98CCE</text>
+  <rect x="504" y="214" width="22" height="22" rx="4" fill="#7EA2E0" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="230" font-size="14" fill="#C5C9D0">Functions</text>
+  <text x="916" y="230" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#7EA2E0</text>
+  <rect x="504" y="244" width="22" height="22" rx="4" fill="#8BAB6B" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="260" font-size="14" fill="#C5C9D0">Strings</text>
+  <text x="916" y="260" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#8BAB6B</text>
+  <rect x="504" y="274" width="22" height="22" rx="4" fill="#C89F70" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="290" font-size="14" fill="#C5C9D0">Numbers</text>
+  <text x="916" y="290" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#C89F70</text>
+  <rect x="504" y="304" width="22" height="22" rx="4" fill="#6ECBD8" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="320" font-size="14" fill="#C5C9D0">Types</text>
+  <text x="916" y="320" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#6ECBD8</text>
+  <rect x="504" y="334" width="22" height="22" rx="4" fill="#F6B2BB" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="350" font-size="14" fill="#C5C9D0">Tags</text>
+  <text x="916" y="350" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#F6B2BB</text>
+  <rect x="504" y="364" width="22" height="22" rx="4" fill="#696D72" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="380" font-size="14" fill="#C5C9D0">Line numbers</text>
+  <text x="916" y="380" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#696D72</text>
+  <rect x="504" y="394" width="22" height="22" rx="4" fill="#34425D" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="410" font-size="14" fill="#C5C9D0">Selection</text>
+  <text x="916" y="410" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#34425D</text>
+  <rect x="504" y="424" width="22" height="22" rx="4" fill="#262A32" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="440" font-size="14" fill="#C5C9D0">Current line</text>
+  <text x="916" y="440" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#262A32</text>
+  <rect x="504" y="454" width="22" height="22" rx="4" fill="#9BC6FF" stroke="#696D72" stroke-opacity="0.6"/>
+  <text x="540" y="470" font-size="14" fill="#C5C9D0">Caret</text>
+  <text x="916" y="470" font-size="14" text-anchor="end" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" fill="#818B9A">#9BC6FF</text>
+</svg>
